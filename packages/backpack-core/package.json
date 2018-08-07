@@ -5,6 +5,9 @@
   "repository": "palmerhq/backpack",
   "author": "@jaredpalmer",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "bugs": {
     "url": "https://github.com/palmerhq/backpack/issues"
   },
